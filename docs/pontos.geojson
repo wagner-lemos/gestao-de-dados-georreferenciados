@@ -1,0 +1,30 @@
+{
+  "name": "Pontos de Interesse",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Ponto Central" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.63, -23.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ponto Norte" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.63, -23.54]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ponto Sul" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.63, -23.56]
+      }
+    }
+  ]
+}

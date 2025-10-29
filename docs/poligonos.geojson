@@ -1,0 +1,22 @@
+{
+  "name": "Polígonos",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Área Residencial" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.635, -23.552],
+            [-46.625, -23.552],
+            [-46.625, -23.545],
+            [-46.635, -23.545],
+            [-46.635, -23.552]
+          ]
+        ]
+      }
+    }
+  ]
+}
