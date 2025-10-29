@@ -15,6 +15,8 @@ Utilizando Laravel no backend e ReactJS no frontend usando a biblioteca ArcGIS M
 • Versao do PHP: 8.2
 • Versao do Laravel: 11.9
 • Versao do ReactJS: 18.2
+• npm: 10.9
+• node: 22.16
 ```
 #### Configure o backend
 ```
